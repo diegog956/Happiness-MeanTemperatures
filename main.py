@@ -12,7 +12,7 @@ df = pd.read_csv('data\data_happiness_meantemperature.csv', index_col =0)
 
 st.image('data\winter_vs_summer.jpg')
 
-st.title('Is there a correlation between happiness and warm weather?')
+st.title('Analyzing Happiness by Temperature: Does Warm Weather Make Us Happier?')
 
 st.page_link('https://github.com/diegog956', label="github.com/diegog956", icon=":material/link:")
 
