@@ -63,12 +63,13 @@ st.pyplot(figure)
 
 st.text("""We found an interesting thing to point out as a conclusion:
     
-People's hypotesis of strong correlation between Happiness and warm weather might not be accurate
-due to the fact, as the plot is pointing out, that there's no cold weather countries whose
-happiness score drops below 5 while seems to be the mean in warm countries.
+People's hypotesis of strong correlation between Happiness and warm weather might
+not be accurate due to the fact, as the plot is pointing out, that there's no cold
+weather countries whose happiness score drops below 5 while seems to be the mean 
+in warm countries.
         
-We can't also jump into conclusion that is the other way around giving the fact that other different
-indicators play an important role in humanity well being as well.
+We can't also jump into conclusion that is the other way around giving the fact 
+that other different indicators play an important role in humanity well being as well.
 
 """)
 
