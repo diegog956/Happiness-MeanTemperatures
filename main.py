@@ -8,9 +8,9 @@ from matplotlib.offsetbox import OffsetImage, AnnotationBbox
 
 sources = ['https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021', 'https://en.wikipedia.org/wiki/List_of_countries_by_average_yearly_temperature']
 
-df = pd.read_csv('data\data_happiness_meantemperature.csv', index_col =0)
+df = pd.read_csv('data/data_happiness_meantemperature.csv', index_col =0)
 
-st.image('data\winter_vs_summer.jpg')
+st.image('data/winter_vs_summer.jpg')
 
 st.title('Analyzing Happiness by Temperature: Does Warm Weather Make Us Happier?')
 
