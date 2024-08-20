@@ -69,7 +69,8 @@ weather countries whose happiness score drops below 5 while seems to be the mean
 in warm countries.
         
 We can't also jump into conclusion that is the other way around giving the fact 
-that other different indicators play an important role in humanity well being as well.
+that other different indicators play an important role in humanity well being as 
+well.
 
 """)
 
