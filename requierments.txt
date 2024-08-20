@@ -1,0 +1,6 @@
+pandas
+streamlit
+seaborn
+flagpy
+pillow
+matplotlib
