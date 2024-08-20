@@ -7,7 +7,7 @@ from matplotlib.offsetbox import OffsetImage, AnnotationBbox
 
 sources = ['https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021', 'https://en.wikipedia.org/wiki/List_of_countries_by_average_yearly_temperature']
 
-df = pd.DataFrame(pd.read_csv('data\data_happiness_meantemperature.csv'))
+df = pd.read_csv('data\data_happiness_meantemperature.csv')
 
 st.image('data\winter_vs_summer.jpg')
 
@@ -18,7 +18,5 @@ while winter is often associated with sadness.
         
 Let's explore the data from the 2021 World Happiness Report alongside the average annual
 temperatures of countries around the world to see what insights we can uncover.\n""")
-
-
 
 st.dataframe(df)
