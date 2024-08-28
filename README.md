@@ -8,6 +8,12 @@ The analysis is visualized through interactive graphs and data representations u
 The goal of this project is to investigate if people in warmer countries tend to be happier compared to those in colder regions.
 We leverage data from the 2021 World Happiness Report and average annual temperatures to uncover insights.
 
+![Title](data/Screenshot1.jpg)
+
+Using a python library called flagpy, a scatter plot was created with incorporate flags on it.
+
+![ScatterPlot](data/Screenshot2.jpg)
+
 ## 🔗 Live Demo
 
 You can view the live application and interact with the data here: [Happiness and Temperature Analysis](https://weather-and-happiness.streamlit.app/)
